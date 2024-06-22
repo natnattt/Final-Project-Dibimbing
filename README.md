@@ -27,7 +27,7 @@ _Note: All data used is synthetic, reflecting real-world data from an online ret
     - Utilize the first Postgres container as your landing zone and the second for operational purposes.
 - Run the DAGs starting from the Ingest Data DAG and proceed to Data Transformation.
 - Customize your visualizations:
-  * Use Metabase via port 3001 with SQL queries for visualization.
+  * Use Metabase via port `3001` with SQL queries for visualization.
   * Alternatively, connect Tableau to Postgres using the connection from Neon Console with add connection.
 - Ready to go!
 
