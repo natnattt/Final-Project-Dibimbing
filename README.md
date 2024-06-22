@@ -53,7 +53,8 @@ _Note: All data used is synthetic, reflecting real-world data from an online ret
 ├── docker                                # for containerizations
 └── scripts
 │   ├── .env                                  # secret keys, environment variables
-│   └── requirements.txt                      # library 
+│   └── requirements.txt                      # library
+.
 ```
 
 
