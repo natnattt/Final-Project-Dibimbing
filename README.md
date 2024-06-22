@@ -10,6 +10,7 @@ The challenge for you is to build a data infrastructure using synthetic data. Yo
 2. Perform Data Modeling in Postgres.
 3. Create Dashboards for Data Visualization.
 4. Construct a Presentation summarizing the work done.
+   
 _Note: All data used is synthetic, reflecting real-world data from an online retail company._
 
 ## Overview
